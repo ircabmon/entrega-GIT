@@ -1,5 +1,6 @@
 # entrega-GIT
-Irene Cabria Mondéjar 2DC
+#Irene Cabria Mondéjar 2DC
+
 **- ¿Qué comando utilizaste en el paso 11? ¿Por qué?**
 git reset --hard HEAD~1 //Porque así se eliminan todos los cambios guardados en ese commit.
 
